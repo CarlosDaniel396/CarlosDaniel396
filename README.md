@@ -14,7 +14,7 @@
       <img align="center" alt="Joao-Js" height="100" width="200" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg">
         <img align="center" alt="Joao-Js" height="100" width="200" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
           <img align="center" alt="Joao-Js" height="100" width="200" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg">
-          <img align="center" alt="Joao-Js" height="100" width="200" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
+          <img align="center" alt="Joao-Js" height="100" width="200" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 
    
 </div>
