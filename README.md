@@ -3,10 +3,10 @@
 <!-- My name is Carlos Daniel and I absolutely love Technology!  -->
 
 - 🌎 I'm from Itumbiara-GO / Brazil
-- 💻 *Languages:* JavaScript, TypeScript Node.js, and looking forward to learn even more!
-- 🔧 *Tools:* Visual Studio Code, GitHub
+- 💻 *Languages:* Java, Spring Framework and looking forward to learn even more!
+- 🔧 *Tools:* Eclipse, GitHub
 - 🎓 *Studying:* System Analysis and Development 
-- 🎖 *Skill:* Express, Jest & SuperTest, MYSQL, Knex, TypeORM, PrismaORM
+- 🎖 *Skill:* Spring Boot, Spring Security, JUnit, Postgres, Spring Data JPA, Hibernate
 
 <div>
   <a href="https://github.com/CarlosDaniel396">
