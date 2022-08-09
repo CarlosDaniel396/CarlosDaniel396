@@ -6,5 +6,5 @@
 - 💻 *Languages and Frameworks:* Java, JavaScript, TypeScript, Spring Framework and looking forward to learn even more!
 - 🔧 *Tools:* Eclipse, GitHub
 - 🎓 *Studying:* System Analysis and Development 
-- 🎖 *Skill:* Spring Boot, Spring Security, JUnit, Postgres, Spring Data JPA, Hibernate, React
+- 🎖 *Skills:* Spring Boot, Spring Security, JUnit, Postgres, Spring Data JPA, Hibernate, Angular
 
